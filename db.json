@@ -28,7 +28,7 @@
     "games": [
         {
             "id": "1",
-            "title": "1.he Legend of Zelda: Ocarina of Time",
+            "title": "1.The Legend of Zelda: Ocarina of Time",
             "image": "TheLegendOfZelda.png",
             "releaseDate": "NOV 23, 1998",
             "rating": "99",
@@ -75,6 +75,29 @@
             "releaseDate": "AUG 26, 2018",
             "rating": "96",
             "description": "A documentary series examining race and identity in education through the experiences of students at a diverse high school."
+        }
+    ],
+    "news": [
+        {
+            "id": "1",
+            "title": "Dragon Age: The Veilguard",
+            "image": "DragonAge.png",
+            "category": "Games",
+            "rating": "84"
+        },
+        {
+            "id": "2",
+            "title": "Anora",
+            "image": "Anora.png",
+            "category": "Movies",
+            "rating": "91"
+        },
+        {
+            "id": "3",
+            "title": "Like Water for Chocolate",
+            "image": "LikeWaterforChocolate.png",
+            "category": "Series",
+            "rating": "78"
         }
     ]
 }
