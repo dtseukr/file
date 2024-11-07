@@ -1,0 +1,80 @@
+{
+    "movies": [
+        {
+            "id": "1",
+            "title": "1.Dekalog",
+            "image": "Dekalog.png",
+            "releaseDate": "MAR 22, 1996",
+            "rating": "100",
+            "description": "A ten-part series exploring moral dilemmas faced by residents of a Warsaw apartment complex, each episode inspired by a different Ten Commandment."
+        },
+        {
+            "id": "2",
+            "title": "2.Citizen Kane",
+            "image": "CitizenKane.png",
+            "releaseDate": "SEP 4, 1941",
+            "rating": "100",
+            "description": "A groundbreaking film that follows the life of newspaper magnate Charles Foster Kane, delving into themes of power, loss, and the complexity of human experience."
+        },
+        {
+            "id": "3",
+            "title": "3.The Leopard",
+            "image": "TheLeopard.png",
+            "releaseDate": "AUG 13, 2004",
+            "rating": "100",
+            "description": "A historical drama set in 19th-century Sicily, chronicling the decline of the aristocracy during Italy’s unification through the eyes of a noble family."
+        }
+    ],
+    "games": [
+        {
+            "id": "1",
+            "title": "1.he Legend of Zelda: Ocarina of Time",
+            "image": "TheLegendOfZelda.png",
+            "releaseDate": "NOV 23, 1998",
+            "rating": "99",
+            "description": "An iconic action-adventure game where Link must save Hyrule from the evil Ganondorf by solving puzzles and battling foes."
+        },
+        {
+            "id": "2",
+            "title": "2.SoulCalibur",
+            "image": "SoulCalibur.png",
+            "releaseDate": "MAY 19, 2015",
+            "rating": "98",
+            "description": "A renowned weapon-based fighting game featuring diverse characters and fast-paced battles for the legendary Soul Blade."
+        },
+        {
+            "id": "3",
+            "title": "3. Grand Theft Auto IV",
+            "image": "GrandTheftAuto.png",
+            "releaseDate": "APR 29, 2008",
+            "rating": "98",
+            "description": "An open-world action-adventure game following Niko Bellic as he navigates crime and ambition in Liberty City."
+        }
+    ],
+    "series": [
+        {
+            "id": "1",
+            "title": "1.Planet Earth: Blue Planet II",
+            "image": "PlanetEarthBluePlanetII.png",
+            "releaseDate": "JAN 20, 2018",
+            "rating": "97",
+            "description": "A stunning documentary series exploring the beauty and fragility of ocean life through breathtaking cinematography."
+        },
+        {
+            "id": "2",
+            "title": "2.The Office",
+            "image": "TheOffice.png",
+            "releaseDate": "JAN 23, 2003",
+            "rating": "97",
+            "description": "A mockumentary sitcom centered on the daily lives of office employees at Dunder Mifflin, blending humor with relatable workplace scenarios."
+        },
+        {
+            "id": "3",
+            "title": "3.America to Me",
+            "image": "AmericatoMe.png",
+            "releaseDate": "AUG 26, 2018",
+            "rating": "96",
+            "description": "A documentary series examining race and identity in education through the experiences of students at a diverse high school."
+        }
+    ]
+}
