@@ -81,7 +81,7 @@
         {
             "id": "1",
             "title": "Dragon Age: The Veilguard",
-            "image": "DragonAge.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/DragonAge.png?raw=true",
             "category": "Games",
             "rating": "84"
         },
