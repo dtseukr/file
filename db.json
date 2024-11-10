@@ -3,7 +3,7 @@
         {
             "id": "1",
             "title": "1.Dekalog",
-            "image": "Dekalog.png",
+            "image": "kartynky/Dekalog.png",
             "releaseDate": "MAR 22, 1996",
             "rating": "100",
             "description": "A ten-part series exploring moral dilemmas faced by residents of a Warsaw apartment complex, each episode inspired by a different Ten Commandment."
@@ -81,7 +81,7 @@
         {
             "id": "1",
             "title": "Dragon Age: The Veilguard",
-            "image": "https://github.com/dtseukr/file/blob/main/kartynky/DragonAge.png?raw=true",
+            "image": "DragonAge.png",
             "category": "Games",
             "rating": "84"
         },
