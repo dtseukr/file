@@ -3,7 +3,7 @@
         {
             "id": "1",
             "title": "1.Dekalog",
-            "image": "kartynky/Dekalog.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/Dekalog.png?raw=true",
             "releaseDate": "MAR 22, 1996",
             "rating": "100",
             "description": "A ten-part series exploring moral dilemmas faced by residents of a Warsaw apartment complex, each episode inspired by a different Ten Commandment."
@@ -11,7 +11,7 @@
         {
             "id": "2",
             "title": "2.Citizen Kane",
-            "image": "kartynky/CitizenKane.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/CitizenKane.png?raw=true",
             "releaseDate": "SEP 4, 1941",
             "rating": "100",
             "description": "A groundbreaking film that follows the life of newspaper magnate Charles Foster Kane, delving into themes of power, loss, and the complexity of human experience."
@@ -19,7 +19,7 @@
         {
             "id": "3",
             "title": "3.The Leopard",
-            "image": "kartynky/TheLeopard.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/TheLeopard.png?raw=true",
             "releaseDate": "AUG 13, 2004",
             "rating": "100",
             "description": "A historical drama set in 19th-century Sicily, chronicling the decline of the aristocracy during Italy’s unification through the eyes of a noble family."
@@ -29,7 +29,7 @@
         {
             "id": "1",
             "title": "1.The Legend of Zelda: Ocarina of Time",
-            "image": "kartynky/TheLegendOfZelda.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/TheLegendOfZelda.png?raw=true",
             "releaseDate": "NOV 23, 1998",
             "rating": "99",
             "description": "An iconic action-adventure game where Link must save Hyrule from the evil Ganondorf by solving puzzles and battling foes."
@@ -37,7 +37,7 @@
         {
             "id": "2",
             "title": "2.SoulCalibur",
-            "image": "kartynky/SoulCalibur.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/SoulCalibur.png?raw=true",
             "releaseDate": "MAY 19, 2015",
             "rating": "98",
             "description": "A renowned weapon-based fighting game featuring diverse characters and fast-paced battles for the legendary Soul Blade."
@@ -45,7 +45,7 @@
         {
             "id": "3",
             "title": "3. Grand Theft Auto IV",
-            "image": "kartynky/GrandTheftAuto.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/GrandTheftAuto.png?raw=true",
             "releaseDate": "APR 29, 2008",
             "rating": "98",
             "description": "An open-world action-adventure game following Niko Bellic as he navigates crime and ambition in Liberty City."
@@ -55,7 +55,7 @@
         {
             "id": "1",
             "title": "1.Planet Earth: Blue Planet II",
-            "image": "kartynky/PlanetEarthBluePlanetII.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/PlanetEarthBluePlanetII.png?raw=true",
             "releaseDate": "JAN 20, 2018",
             "rating": "97",
             "description": "A stunning documentary series exploring the beauty and fragility of ocean life through breathtaking cinematography."
@@ -63,7 +63,7 @@
         {
             "id": "2",
             "title": "2.The Office",
-            "image": "kartynky/TheOffice.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/TheOffice.png?raw=true",
             "releaseDate": "JAN 23, 2003",
             "rating": "97",
             "description": "A mockumentary sitcom centered on the daily lives of office employees at Dunder Mifflin, blending humor with relatable workplace scenarios."
@@ -71,7 +71,7 @@
         {
             "id": "3",
             "title": "3.America to Me",
-            "image": "kartynky/AmericatoMe.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/AmericatoMe.png?raw=true",
             "releaseDate": "AUG 26, 2018",
             "rating": "96",
             "description": "A documentary series examining race and identity in education through the experiences of students at a diverse high school."
@@ -81,21 +81,21 @@
         {
             "id": "1",
             "title": "Dragon Age: The Veilguard",
-            "image": "kartynky/DragonAge.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/DragonAge.png?raw=true",
             "category": "Games",
             "rating": "84"
         },
         {
             "id": "2",
             "title": "Anora",
-            "image": "kartynky/Anora.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/Anora.png?raw=true",
             "category": "Movies",
             "rating": "91"
         },
         {
             "id": "3",
             "title": "Like Water for Chocolate",
-            "image": "kartynky/LikeWaterforChocolate.png",
+            "image": "https://github.com/dtseukr/file/blob/main/kartynky/LikeWaterforChocolate.png?raw=true",
             "category": "Series",
             "rating": "78"
         }
